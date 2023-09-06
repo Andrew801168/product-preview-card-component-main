@@ -1,2 +1,2 @@
-# product-preview-card-component-main
-product-preview-card-component-main From Frontend Mentor Challenges
+# Live Preview
+https://andrew801168.github.io/product-preview-card-component-main/
